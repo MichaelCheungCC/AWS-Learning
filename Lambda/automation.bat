@@ -1,0 +1,1 @@
+CALL C:\Users\User\anaconda3\Scripts\activate.bat & C:\Users\user\Anaconda3\envs\aws_lambda_test\python.exe "C:\Users\User\OneDrive\Desktop\Python\AWS Learning\Lambda\sales_generation.py"
